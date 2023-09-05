@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\ДЗ 31_08\\Task04\\Task04.csproj",
+      "projectUniqueName": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_31_08_C_Sharp\\Task04\\Task04.csproj",
       "projectName": "Task04",
-      "projectPath": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\ДЗ 31_08\\Task04\\Task04.csproj",
+      "projectPath": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_31_08_C_Sharp\\Task04\\Task04.csproj",
       "packagesPath": "C:\\Users\\SvetiG\\.nuget\\packages\\",
-      "outputPath": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\ДЗ 31_08\\Task04\\obj\\",
+      "outputPath": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_31_08_C_Sharp\\Task04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SvetiG\\AppData\\Roaming\\NuGet\\NuGet.Config"

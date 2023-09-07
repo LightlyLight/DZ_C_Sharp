@@ -5,7 +5,7 @@
 22 3 9 -> 22
 */
 
-/*Console.WriteLine("Введите три числа: ");
+Console.WriteLine("Введите три числа: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
 int num3 = Convert.ToInt32(Console.ReadLine());
@@ -22,15 +22,17 @@ else
 {
    Console.WriteLine("Числа равны"); 
 }
-Console.WriteLine($"Максимум равен {max}");*/
+Console.WriteLine($"Максимум равен {max}");
 
 // Решение задачи через цикл
-Console.WriteLine("Введите три числа: ");
+
+/*Console.WriteLine("Введите три числа: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
 int num3 = Convert.ToInt32(Console.ReadLine());
 int max = num1;
 for (int i = 0; i < 3; i++)
 {
-    
+        
 }
+Console.WriteLine($"Максимум равен {max}");*/
